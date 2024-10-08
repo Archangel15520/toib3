@@ -1,4 +1,4 @@
-# TOIB-PR-4 Vasiljew Grigoriy Maksimovich BBMO-02-23
+# SSSL-PR-1 Vasiljew Grigoriy Maksimovich BBMO-02-23
 
 1. Создаем 2 виртуальные машины на базе ОС Debian 12 и обеспечиваем между ними сетевой обмен
 
